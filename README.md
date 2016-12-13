@@ -1,5 +1,5 @@
 # SimpleApp
-sample app to test VSTS build automation.
+Sample App to test VSTS build automation from github.
 
 The functionality of this sample is very simple and most C# developers would not learn anything new.
 
